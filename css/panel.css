@@ -1,0 +1,65 @@
+
+.panel-custom {
+    border-color: #ff0000;
+}
+
+.panel-custom > .panel-heading {
+    background: #B22222; 
+    border-color: #B22222;
+    color: white;
+}
+
+.well-student-counter, .well-teacher-counter, .well-class-counter, .well-attendance-counter {
+    color: white;
+    border-radius: 15px;
+}
+.well-student-counter {
+	background-color: #1CAF9A;
+}
+.well-teacher-counter {
+	background-color: #D9534F;
+}
+.well-class-counter {
+	background-color: #428BCA;
+}
+.well-attendance-counter {
+	background-color: #F19B2C;
+}
+
+    /**************************
+    ** Navigation Bar Colours**
+    **************************/
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.navbar {
+    font-family: Arial, Arial Black;
+    background-color: black;
+    margin-bottom: 0;
+    border: 0;
+    font-size: 14px !important;
+    letter-spacing: 2px;
+    opacity: 0.9;
+}
+
+.navbar li a, .navbar .navbar-brand { 
+    color: white !important;
+  }
+.navbar-nav li a:hover {
+    color:#446288 !important;
+  }
+.navbar-inverse .navbar-toggle {
+    border-color: transparent;
+  }
+html, body {
+    background-color: whitesmoke !important;
+	font-family: Arial, Arial Black;
+	color: black;
+	font-size: 13px;
+	letter-spacing: .25px;
+	line-height: 1.5;
+  }

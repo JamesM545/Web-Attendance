@@ -1,0 +1,48 @@
+    /**************************
+    ** Navigation Bar Colours**
+    **************************/
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.navbar {
+    font-family: Arial, Arial Black;
+    background-color: black;
+    margin-bottom: 0;
+    border: 0;
+    font-size: 14px !important;
+    letter-spacing: 2px;
+    opacity: 0.9;
+}
+
+.navbar li a, .navbar .navbar-brand { 
+    color: white !important;
+  }
+.navbar-nav li a:hover {
+    color:#446288 !important;
+  }
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+html, body {
+    background-color: whitesmoke !important;
+	font-family: Arial, Arial Black;
+	color: black;
+	font-size: 13px;
+	letter-spacing: .25px;
+	line-height: 1.5;
+  }
+
+    /**************************
+    ***** Sidebar Colours *****
+    **************************/
+.sidebar {
+    background-color: whitesmoke;
+    color: black;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 20px;
+}

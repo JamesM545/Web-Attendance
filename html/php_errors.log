@@ -1,0 +1,22 @@
+[18-Oct-2017 21:43:13 UTC] PHP Fatal error:  Call to undefined function get_avatar() in /home/ubuntu/workspace/html/session/student-homepage-welcome.html.php on line 17
+[18-Oct-2017 21:43:13 UTC] PHP Stack trace:
+[18-Oct-2017 21:43:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/session/student-homepage-welcome.html.php:0
+[21-Nov-2017 10:18:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/html/session/manage-students.html.php on line 46
+[21-Nov-2017 10:18:28 UTC] PHP Stack trace:
+[21-Nov-2017 10:18:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/session/manage-students.html.php:0
+[21-Nov-2017 10:18:28 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/html/session/manage-students.html.php:46
+[21-Nov-2017 10:18:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/html/session/manage-students.html.php on line 57
+[21-Nov-2017 10:18:28 UTC] PHP Stack trace:
+[21-Nov-2017 10:18:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/session/manage-students.html.php:0
+[21-Nov-2017 10:18:28 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/html/session/manage-students.html.php:57
+[21-Nov-2017 10:19:24 UTC] PHP Fatal error:  Call to undefined function get_avatar() in /home/ubuntu/workspace/html/session/student-homepage-welcome.html.php on line 17
+[21-Nov-2017 10:19:24 UTC] PHP Stack trace:
+[21-Nov-2017 10:19:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/session/student-homepage-welcome.html.php:0
+[21-Nov-2017 10:19:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/html/session/manage-teachers.html.php on line 43
+[21-Nov-2017 10:19:38 UTC] PHP Stack trace:
+[21-Nov-2017 10:19:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/session/manage-teachers.html.php:0
+[21-Nov-2017 10:19:38 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/html/session/manage-teachers.html.php:43
+[21-Nov-2017 10:19:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/html/session/manage-teachers.html.php on line 51
+[21-Nov-2017 10:19:38 UTC] PHP Stack trace:
+[21-Nov-2017 10:19:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/session/manage-teachers.html.php:0
+[21-Nov-2017 10:19:38 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/html/session/manage-teachers.html.php:51

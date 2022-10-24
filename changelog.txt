@@ -1,0 +1,27 @@
+17/10/2017 --
+
+1. Changed: FrontPage
+2. Added: Teacher Panel
+
+18/10/2017 --
+
+1. Added: Logo
+2. Fixed: Issues with logging in not starting session
+
+
+19/10/2017  --
+
+1. Added student manager and class manager functions
+2. Fixed: Minor bugs with classes.php and students.php
+3. Fixed: Exploit of being logged in student account and accessing teacher panel
+4. Added: Manage teacher functions
+5. Fixed: Problems with responsiveness on teacher panel portal
+6. Changed: FrontPage services images
+
+
+04/12/2017 --
+
+1. Redesign of the website homepage.
+
+
+https://james-m-a-level-project-jgibbons.c9users.io
